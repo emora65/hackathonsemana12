@@ -1,0 +1,17 @@
+.presentacion{
+    background-color: turquoise;
+    font-size: 40;
+    text-align: center;
+    text-decoration: none;
+    width: 900px;
+    height: 100px;
+    margin-bottom: 0;
+    padding: 50px;
+}
+
+.text{
+  text-decoration:none; 
+  font-style: italic;
+  font-size: large;
+  
+}
